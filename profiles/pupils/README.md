@@ -32,6 +32,7 @@
 - [Enrico Viceconti](profiles/Eviceconti.md)
 - [Eric Madureira](profiles/EricMadureira.md)
 - [Estevam de Moraes Rodrigues](profiles/estevammr.md)
+- [Felipe Rodolfo](profiles/felipe_rodolfo.md)
 - [Felipe Acelino](profiles/FelipeAcelino.md)
 - [Felipe Lacerda](profiles/FelipeLacerda.md)
 - [Fernando Costa](profiles/FernandoCosta.md)
